@@ -1,11 +1,13 @@
 # EMPLOYEE DATA ANALYSIS
 ## INTRODUCTION
-This is an Excel task on an employee dataset designed to provide a robust solution for handling and analyzing employee data in a corporate environment. The analysis consists of four(4) strategically crafted worksheets, each tailored to address specific aspects of employee information.
+This is an Excel task on an employee dataset designed to provide a robust solution for handling and analyzing employee data in a corporate environment. The analysis consists of four(4) strategically crafted **worksheets**, each tailored to address specific aspects of employee information.
 
 **_Disclaimer_** : The dataset does not portray any specific company, institution, or country. Instead, it is a personalized, generated dataset crafted solely for the purpose of showcasing the capabilities of Excel.
 
 ## PROBLEM STATEMENT
-In the first worksheet, generate a table with 20 rows of data, incorporating key fields such as Employee ID, Employee Full Name, Department, Salary, and Job Type. Subsequently, copy and paste this table into worksheet two(2), worksheet(3) and worksheet(4).
+### Worksheet 1:
+- In the first worksheet, generate a table with 20 rows of data, incorporating key fields such as Employee Full Name, Employee ID, Department, Salary, and Job Type. 
+- Subsequently, copy and paste this table into worksheet two(2), worksheet(3) and worksheet(4).
 The tasks within worksheet two(2), three(3) and four(4) are as follows:
 ### Worksheet 2: Filtering Freelancers and Salary Emphasis
 - Display only Freelancer employees.
