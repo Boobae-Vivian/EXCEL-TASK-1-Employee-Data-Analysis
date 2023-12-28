@@ -1,4 +1,4 @@
-# EMPLOYEE DATA ANALYSIS
+# EMPLOYEES DATA ANALYSIS
 ## INTRODUCTION
 This is an Excel task on an employee dataset designed to provide a robust solution for handling and analyzing employee data in a corporate environment. The analysis consists of four(4) strategically crafted **worksheets**, each tailored to address specific aspects of employee information.
 
